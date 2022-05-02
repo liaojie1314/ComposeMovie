@@ -7,4 +7,11 @@
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="yellow">#FFFBDE4B</color>
+    <color name="purple">#FF411445</color>
+    <color name="darkBlue">#212E54</color>
+    <color name="blue">#071C74</color>
+    <color name="statusBarColor">@color/pink900</color>
+    <color name="pink100">#FFF1F1</color>
+    <color name="pink900">#3f2c2c</color>
 </resources>
